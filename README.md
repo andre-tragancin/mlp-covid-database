@@ -48,3 +48,9 @@ pip install numpy
 ```
 pip install matplotlib
 ```
+
+## Install Keras
+
+```
+pip install "tensorflow>=2.0.0"
+```
